@@ -9,6 +9,6 @@ class Solution:
                 ans += i + num//i
         
         return num == ans
-#q10
+#q10 accepted
         
         
