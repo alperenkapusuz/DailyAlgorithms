@@ -15,4 +15,3 @@ class Solution:
             else:
                 s.add(val)
             n=val
-        return 0
